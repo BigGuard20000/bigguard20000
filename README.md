@@ -1,4 +1,4 @@
-<center>## 👤 About Me
+## <center> 👤 About Me </center>
 
 Hello! I am nxctvrnus, aka. BigGuard20000, an aspirant for computer science with dedication to solving complex problems. I also am a generalist w/ experience & adaptability to various subfields relating to cybersecurity and generally computer science.
 
