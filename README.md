@@ -11,7 +11,6 @@ My interest in computer science has led me to grow a passion for Cybersecurity -
 | Topic      | Experience |
 | ----------- | ----------- |
 | Active Directory      |  Lorem Ipsum       |
-| Paragraph   | Text        |
 
 ### Digital Forensics & Incident Response
 
