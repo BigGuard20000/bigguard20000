@@ -20,7 +20,7 @@ My interest in computer science has led me to grow an interest and passion in cy
 
 ### Languages & Tools
 <img align="left" alt="Luau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-| Language      | Experience |
+| Language | Experience |
 | ----------- | ----------- |
 | Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
 | Python | 2 years of experience. Mainly used Python for automating tedious things & problem solving. |
