@@ -18,6 +18,11 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | ----------- | ----------- |
 | Active Directory      |  Lorem Ipsum       |
 
+### Programming
+| Topic      | Experience |
+| ----------- | ----------- |
+| Luau      |  3 years experience with advanced knowledge of it.       |
+
 ## 💼 Projects
 ### Lorem Ipsum
 Lorem Ipsum
