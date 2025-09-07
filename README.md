@@ -19,9 +19,10 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | Active Directory      |  Lorem Ipsum       |
 
 ### Programming
-| Topic      | Experience |
+| Language      | Experience |
 | ----------- | ----------- |
-| Luau      |  3 years experience with advanced knowledge of it.       |
+| Luau      |  3 years experience with advanced knowledge of it. Having used it primarily on Roblox Studio, I am constantly making & learning new things during spare time.       |
+| Python | 2 years experience with advanced knowledge of it.
 
 ## 💼 Projects
 ### Lorem Ipsum
