@@ -1,3 +1,3 @@
 # About Me
 
-Hello! I am nxctvrnus/BigGuard20000, an aspirant for Cybersecurity (Digital Forensics & Incident Response) in law enforcement entities.
+Hello! I am nxctvrnus/BigGuard20000, an aspirant for practicing Cybersecurity (Digital Forensics & Incident Response).
