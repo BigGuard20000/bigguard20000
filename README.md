@@ -11,7 +11,7 @@ My interest in computer science has led me to grow a passion for Cybersecurity -
 ### Digital Forensics & Incident Response
 | Topic      | Details |
 | ----------- | ----------- |
-| Forensics      |  Lorem Ipsum       |
+| Lorem Ipsum      |  Lorem Ipsum       |
 
 ### Penetration Testing
 | Topic      | Details |
