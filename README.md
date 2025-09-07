@@ -19,7 +19,7 @@ My interest in computer science has led me to grow an interest and passion in cy
 | Active Directory      |  Lorem Ipsum       |
 
 ### Languages & Tools
-<img align="left" alt="Luau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/luau/luau-original.svg"/>
+<img align="left" alt="Luau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
 | Language      | Experience |
 | ----------- | ----------- |
 | Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
