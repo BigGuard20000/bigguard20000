@@ -24,7 +24,7 @@ My interest in computer science has led me to grow an interest and passion in cy
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
 | Language | Experience |
 | ----------- | ----------- |
-| ![Luau](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/50px-Luau_Logo_%28Programming_Language%29.svg.png) Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
+| ![Luau](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/30px-Luau_Logo_%28Programming_Language%29.svg.png) Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
 | Python | 2 years of experience. Mainly used Python for automating tedious things & problem solving. |
 
 ## 💼 Projects
