@@ -7,8 +7,10 @@ Hello! I am nxctvrnus, aka. BigGuard20000, an aspirant for computer science with
 My interest in computer science has led me to grow a passion for Cybersecurity - Digital Forensics & Incident Response. In the future I would see myself working in law enforcement in order to put technology to good use & to contribute to efforts to catch bad actors.
 
 ## Skills
-### Active Directory
-lorem ipsum
+| Topic      | Experience |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Certificates
 So far none, because they are VERY expensive.
