@@ -18,10 +18,5 @@ My interest in computer science has led me to grow a passion for Cybersecurity -
 | ----------- | ----------- |
 | Active Directory      |  Lorem Ipsum       |
 
-### Bug Bounty Hunting
-| Topic      | Details |
-| ----------- | ----------- |
-| Lorem Ipsum      |  Lorem Ipsum       |
-
 ## 📄 Certificates
 So far none, because they are VERY expensive.
