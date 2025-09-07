@@ -19,15 +19,15 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | Active Directory      |  Lorem Ipsum       |
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=luau,python)](https://skillicons.dev)
+<https://raw.githubusercontent.com/luau-lang/site/refs/heads/master/assets/images/luau.png>
 | Language      | Experience |
 | ----------- | ----------- |
-| Luau |  3 years of experience with advanced knowledge. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
-| Python | 2 years of experience with advanced knowledge. Mainly used Python for automation of tedious things that don't require whole projects to make to achieve such goal. |
+| Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
+| Python | 2 years of experience. Mainly used Python for automation of tedious things that don't require whole projects to make to achieve such goal. |
 
 ## 💼 Projects
 ### Lorem Ipsum
 Lorem Ipsum
 
 ## 🎖️ Certificates
-So far none, because they are VERY expensive.
+So far none, because they are VERY expensive and I do not feel like throwing my money away like that for such.
