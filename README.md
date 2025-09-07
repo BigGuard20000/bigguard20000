@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## 👤 About Me
 
 Hello! I am nxctvrnus, aka. BigGuard20000, an aspirant for computer science with dedication to solving complex problems. I also am a generalist w/ experience & adaptability to various subfields relating to cybersecurity and generally computer science.
@@ -19,7 +21,7 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | Active Directory      |  Lorem Ipsum       |
 
 ### Languages & Tools
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v15/icons/luau.svg"/>
+https://unpkg.com/simple-icons@15.14.0/icons/luau.svg
 | Language      | Experience |
 | ----------- | ----------- |
 | Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
