@@ -21,7 +21,7 @@ My interest in computer science has led me to grow an interest and passion in Cy
 ### Languages & Tools
 | Language      | Experience |
 | ----------- | ----------- |
-| [![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) Luau      |  3 years of experience with advanced knowledge. Having used it for all projects on Roblox Studio, I constantly make & learn new things that        |
+| [![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) |  3 years of experience with advanced knowledge. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
 
 ## 💼 Projects
 ### Lorem Ipsum
