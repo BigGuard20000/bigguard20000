@@ -19,8 +19,8 @@ My interest in computer science has led me to grow a passion for Cybersecurity -
 | Active Directory      |  Lorem Ipsum       |
 
 ## 💼 Projects
-### Lorem
-Ipsum
+### 67bludskibidi
+ts to tuff🤣🤣🤣🤣🤣🫱🫱🫱
 
 ## 🎖️ Certificates
 So far none, because they are VERY expensive.
