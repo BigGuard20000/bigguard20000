@@ -19,7 +19,7 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | Active Directory      |  Lorem Ipsum       |
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=lua,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=luau,python)](https://skillicons.dev)
 | Language      | Experience |
 | ----------- | ----------- |
 | Luau |  3 years of experience with advanced knowledge. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
