@@ -18,11 +18,8 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | ----------- | ----------- |
 | Active Directory      |  Lorem Ipsum       |
 
-### Programming
-| Language      | Experience |
-| ----------- | ----------- |
-| Luau      |  3 years experience with advanced knowledge of it. Having used it primarily on Roblox Studio, I am constantly making & learning new things during spare time.       |
-| Python | 2 years experience with advanced knowledge of it. Generally used Python for things that can be easily made and don't require making whole projects for automating them. |
+### Languages & Tools I use
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" alt="external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo"/>
 
 ## 💼 Projects
 ### Lorem Ipsum
