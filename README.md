@@ -22,7 +22,7 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | Language      | Experience |
 | ----------- | ----------- |
 | Luau      |  3 years experience with advanced knowledge of it. Having used it primarily on Roblox Studio, I am constantly making & learning new things during spare time.       |
-| Python | 2 years experience with advanced knowledge of it.
+| Python | 2 years experience with advanced knowledge of it. Generally used Python for things that can be easily made and don't require making whole projects for automating them. |
 
 ## 💼 Projects
 ### Lorem Ipsum
