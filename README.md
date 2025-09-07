@@ -11,12 +11,12 @@ My interest in computer science has led me to grow an interest and passion in Cy
 ### Digital Forensics & Incident Response
 | Topic      | Details |
 | ----------- | ----------- |
-| Forensics      |  Lorem Ipsum       |
+| Forensics      |  Experience       |
 
 ### Penetration Testing
 | Topic      | Details |
 | ----------- | ----------- |
-| Active Directory      |  Lorem Ipsum       |
+| Active Directory      |  Experience       |
 
 ## 💼 Projects
 ### 67bludskibidi
