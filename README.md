@@ -1,5 +1,3 @@
-<p style="text-align:center;">
-
 ## 👤 About Me
 
 Hello! I am nxctvrnus, aka. BigGuard20000, an aspirant for computer science with dedication to solving complex problems. I also am a generalist w/ experience & adaptability to various subfields relating to cybersecurity and generally computer science.
@@ -32,5 +30,3 @@ Lorem Ipsum
 
 ## 🎖️ Certificates
 So far none, because they are VERY expensive and I do not feel like throwing my money away like that for such.
-
-</p>
