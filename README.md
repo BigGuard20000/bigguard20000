@@ -13,6 +13,9 @@ My interest in computer science has led me to grow a passion for Cybersecurity -
 | Active Directory      |  Lorem Ipsum       |
 
 ### Digital Forensics & Incident Response
+| Topic      | Experience |
+| ----------- | ----------- |
+| Forensics      |  Lorem Ipsum       |
 
 ## Certificates
 So far none, because they are VERY expensive.
