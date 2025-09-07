@@ -9,18 +9,18 @@ My interest in computer science has led me to grow an interest and passion in Cy
 ## 🛠️ Skills
 
 ### Digital Forensics & Incident Response
-| Topic      | Details |
+| Topic      | Experience |
 | ----------- | ----------- |
-| Forensics      |  Experience       |
+| Forensics      |  Lorem Ipsum       |
 
 ### Penetration Testing
-| Topic      | Details |
+| Topic      | Experience |
 | ----------- | ----------- |
-| Active Directory      |  Experience       |
+| Active Directory      |  Lorem Ipsum       |
 
 ## 💼 Projects
-### 67bludskibidi
-ts to tuff🤣🤣🤣🤣🤣🫱🫱🫱
+### Lorem Ipsum
+Lorem Ipsum
 
 ## 🎖️ Certificates
 So far none, because they are VERY expensive.
