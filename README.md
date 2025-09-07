@@ -17,7 +17,7 @@ My interest in computer science has led me to grow an interest and passion in cy
 ### Penetration Testing
 | Topic      | Experience |
 | ----------- | ----------- |
-| Active Directory      |  Able to conduct a large variety of attacks.      |
+| Active Directory      |  Lorem Ipsum      |
 | Web Applications | Lorem Ipsum |
 
 ### Languages & Tools
