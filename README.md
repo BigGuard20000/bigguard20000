@@ -21,6 +21,7 @@ My interest in computer science has led me to grow an interest and passion in cy
 | Web Applications | Lorem Ipsum |
 
 ### Languages & Tools
+![Luau](https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg)
 | Language | Experience |
 | ----------- | ----------- |
 | Luau | 3 years of experience. Having used it for all projects on Roblox Studio, I constantly make & learn new things in my spare time.       |
