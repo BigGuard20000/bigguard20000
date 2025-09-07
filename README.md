@@ -8,12 +8,12 @@ My interest in computer science has led me to grow a passion for Cybersecurity -
 
 ## Skills
 ### Penetration Testing
-| Topic      | Experience |
+| Topic      | Details |
 | ----------- | ----------- |
 | Active Directory      |  Lorem Ipsum       |
 
 ### Digital Forensics & Incident Response
-| Topic      | Experience |
+| Topic      | Details |
 | ----------- | ----------- |
 | Forensics      |  Lorem Ipsum       |
 
