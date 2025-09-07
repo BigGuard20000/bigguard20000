@@ -18,8 +18,10 @@ My interest in computer science has led me to grow an interest and passion in Cy
 | ----------- | ----------- |
 | Active Directory      |  Lorem Ipsum       |
 
-### Languages & Tools I use
-[<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" alt="external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo"/>](https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000)
+### Languages & Tools
+| Language      | Experience |
+| ----------- | ----------- |
+| [![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) Luau      |  3 years of experience with advanced knowledge. Having used it for all projects on Roblox Studio, I constantly make & learn new things that        |
 
 ## 💼 Projects
 ### Lorem Ipsum
