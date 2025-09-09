@@ -26,4 +26,4 @@ My interest in computer science has led me to grow an interest and passion in cy
 | Python | 2 years of experience. Mainly used Python for automating tedious things & problem solving. |
 
 ## 🎖️ Certificates
-So far none, because they are VERY expensive and I do not feel like throwing my money away like that for such.
+Lorem Ipsum
